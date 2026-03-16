@@ -1,0 +1,21 @@
+{
+  "bank_id": "BANK_001",
+  "report_date": "2026-03-16",
+  "currency": "GBP",
+  "hqla": {
+    "level_1": 450000000,
+    "level_2a": 110000000,
+    "level_2b": 28000000
+  },
+  "cash_outflows_30d": {
+    "retail_deposits": 82000000,
+    "unsecured_wholesale": 195000000,
+    "secured_funding": 52000000,
+    "other_outflows": 42000000
+  },
+  "cash_inflows_30d": {
+    "secured_lending": 58000000,
+    "retail_inflows": 30000000,
+    "other_inflows": 19000000
+  }
+}
