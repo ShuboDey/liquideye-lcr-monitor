@@ -12,7 +12,7 @@ table = dynamodb.Table("liquideye-lcr-results")
 # ========================================================
 # PASTE YOUR SNS TOPIC ARN BELOW
 # ========================================================
-SNS_TOPIC_ARN = "arn:aws:sns:eu-west-2:000876600623:liquideye-lcr-alerts"
+SNS_TOPIC_ARN = "arn:aws:sns:REGION:ACCOUNT_ID:liquideye-lcr-alerts"
 
 # Basel III HQLA haircuts
 HAIRCUTS = {
